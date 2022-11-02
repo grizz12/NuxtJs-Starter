@@ -9,7 +9,7 @@
                     <b-button variant="dark">Get Started</b-button>
                 </b-col>
                 <b-col>
-                    <img src="../static/image-1.png" alt="" height="500" width="500">
+                    <img src="../assets/image-1.png" alt="" height="500" width="500">
                 </b-col>
 
             </b-row>
